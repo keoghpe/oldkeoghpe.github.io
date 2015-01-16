@@ -1,0 +1,77 @@
+{
+    "name": "Skills",
+    "children": [
+        {
+            "name": "Javascript",
+            "children": [
+                {"name": "Node", "value": 15},
+                {
+                    "name": "Build Tools",
+                    "children": [
+                        {"name": "Grunt", "value": 3},
+                        {"name": "Yeoman", "value": 1},
+                        {"name": "Bower", "value": 1},
+                        {"name": "NPM", "value": 1}
+                    ]
+                },
+                {
+                    "name": "Frameworks & Libraries",
+                    "children": [
+                        {"name": "Angular", "value": 9},
+                        {"name": "Ember", "value": 5},
+                        {"name": "Backbone", "value": 3},
+                        {"name": "D3", "value": 12},
+                        {"name": "JQuery", "value": 10}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PHP",
+            "children": [
+                {"name": "Wordpress", "value": 10},
+                {"name": "Slim", "value": 10},
+                {"name": "SimpleTest","value": 10}
+            ]
+        },
+        {
+            "name": "Other Computer Skills",
+            "children": [
+                {
+                    "name": "Other Programming Languages",
+                    "children": [
+                        {"name": "C/C++", "value": 2},
+                        {"name": "Ruby/Rails", "value": 2},
+                        {"name": "Matlab", "value": 2},
+                        {"name": "Verilog", "value": 2},
+                        {"name": "Python", "value": 2},
+                        {"name": "OpenGL", "value": 2}
+                    ]
+                },
+                {
+                    "name": "Tools",
+                    "children": [
+                        {"name": "Git", "value": 5},
+                        {"name": "Rational Software Architect", "value": 4},
+                        {"name": "Bash", "value": 5}
+                    ]
+                },
+                {
+                    "name": "Graphic Design",
+                    "children": [
+                        {"name": "Adobe Photoshop", "value": 9},
+                        {"name": "Adobe Illustrator", "value": 9}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Databases",
+            "children": [
+                {"name": "MySQL", "value": 10},
+                {"name": "MongoDB", "value": 10},
+                {"name": "Database Design", "value": 10}
+            ]
+        }
+    ]
+}
