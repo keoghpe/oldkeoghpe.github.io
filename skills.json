@@ -4,7 +4,7 @@
         {
             "name": "Javascript",
             "children": [
-                {"name": "Node", "value": 15},
+                {"name": "Node", "value": 20},
                 {
                     "name": "Build Tools",
                     "children": [
@@ -17,10 +17,10 @@
                 {
                     "name": "Frameworks & Libraries",
                     "children": [
-                        {"name": "Angular", "value": 9},
-                        {"name": "Ember", "value": 5},
-                        {"name": "Backbone", "value": 3},
-                        {"name": "D3", "value": 12},
+                        {"name": "Angular", "value": 15},
+                        {"name": "Ember", "value": 10},
+                        {"name": "Backbone", "value": 5},
+                        {"name": "D3", "value": 20},
                         {"name": "JQuery", "value": 10}
                     ]
                 }
@@ -61,6 +61,16 @@
                     "children": [
                         {"name": "Adobe Photoshop", "value": 9},
                         {"name": "Adobe Illustrator", "value": 9}
+                    ]
+                },
+                {
+                    "name": "Theoretical Computer Engineering",
+                    "children": [
+                        {"name": "Digital Signal Processing", "value": 5},
+                        {"name": "Machine Learning", "value": 5},
+                        {"name": "Argumentation Theory", "value": 5},
+                        {"name": "Software Design", "value": 5},
+                        {"name": "Alogorithms", "value": 5}
                     ]
                 }
             ]
