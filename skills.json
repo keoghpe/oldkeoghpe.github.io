@@ -60,7 +60,10 @@
                     "name": "Graphic Design",
                     "children": [
                         {"name": "Adobe Photoshop", "value": 9},
-                        {"name": "Adobe Illustrator", "value": 9}
+                        {"name": "Adobe Illustrator", "value": 9},
+                        {"name": "CSS3", "value": 15},
+                        {"name": "SCSS", "value": 5},
+                        {"name": "html5", "value": 15}
                     ]
                 },
                 {
@@ -70,7 +73,8 @@
                         {"name": "Machine Learning", "value": 5},
                         {"name": "Argumentation Theory", "value": 5},
                         {"name": "Software Design", "value": 5},
-                        {"name": "Alogorithms", "value": 5}
+                        {"name": "Alogorithms", "value": 5},
+                        {"name": "Networks", "value": 5}
                     ]
                 }
             ]
@@ -81,6 +85,15 @@
                 {"name": "MySQL", "value": 10},
                 {"name": "MongoDB", "value": 10},
                 {"name": "Database Design", "value": 10}
+            ]
+        },
+        {
+            "name": "Java",
+            "children": [
+                {"name": "Core Java", "value": 10},
+                {"name": "JSP", "value": 2},
+                {"name": "Spring","value": 5},
+                {"name": "Android","value": 8}
             ]
         }
     ]
