@@ -63,7 +63,8 @@
                         {"name": "Adobe Illustrator", "value": 9},
                         {"name": "CSS3", "value": 15},
                         {"name": "SCSS", "value": 5},
-                        {"name": "html5", "value": 15}
+                        {"name": "html5", "value": 15},
+                        {"name": "Responsive Design", "value": 10}
                     ]
                 },
                 {
